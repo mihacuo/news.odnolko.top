@@ -9,8 +9,26 @@
 <form method="post" action="" class="search">
   {{ g.form.hidden_tag() }}
   {{ g.form.query.label }} {{ g.form.query(size=30) }}
+  {{ g.form.duration.label }} {{ g.form.duration }}
   {{ g.form.submit() }}
 
 </form>
 
+  {% if g.data_news %}
+  <table class="news">
+    <tr  class="c1">
+      <th>Created</th>
+      <th>Title</th>
+      <th>Detail</th>
+    </tr>
+    {% for item in g.data_news | reverse %}
+      <tr class="c2 news">
+        <td>{{ item.created.strftime("%d %b %H:%M:%S")  }}</td>
+        <td>{{ item.title }}</td>
+        <td>{{ item.detail }}</td>
+      </tr>
+      
+    {% endfor%}
+  </table>
+  {% endif %}
 {% endblock %}

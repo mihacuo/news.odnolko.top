@@ -420,3 +420,21 @@
 16-07-25 12:01:27|Loading https://www.commodity-tv.com/ondemand/channel/exploration/rss.xml, 39 out of 39
 16-07-25 12:01:29|https://www.commodity-tv.com/ondemand/channel/exploration/rss.xml, 39 out of 39 Loaded: 50; Saved: 0; Not: 50
 16-07-25 12:01:29|RSS Total: 1344; Saved: 1(0%). Exec time = 23.09 secs.
+16-07-25 12:22:42|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
+16-07-25 12:22:42|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
+16-07-25 12:23:07|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
+16-07-25 12:23:07|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
+16-07-25 12:23:09|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
+16-07-25 12:23:09|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
+16-07-25 12:23:29|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
+16-07-25 12:23:29|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
+16-07-25 12:23:31|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
+16-07-25 12:23:31|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
+16-07-25 12:23:35|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
+16-07-25 12:23:35|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
+16-07-25 12:23:36|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
+16-07-25 12:23:36|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
+16-07-25 12:23:45|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
+16-07-25 12:23:45|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
+16-07-25 12:24:10|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
+16-07-25 12:24:10|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
