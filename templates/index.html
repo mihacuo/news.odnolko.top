@@ -1,7 +1,8 @@
 {% extends "layout.html" %} {% block title %} Default index file {% endblock %}
 {% block content%}
+<p>Search word in news in the past X days</p>
 {% if g.search_term %}
-<p>You searched for {{ g.form.query.data }} .</p>
+<p>You searched for {{ g.form.query.data }}. Returned {{ g.count }} items.</p>
 {% else %}
 <p>Enter Search term:</p>
 
@@ -17,12 +18,14 @@
   {% if g.data_news %}
   <table class="news">
     <tr  class="c1">
+      <th>No.</th>
       <th>Created</th>
       <th>Title</th>
       <th>Detail</th>
     </tr>
     {% for item in g.data_news | reverse %}
       <tr class="c2 news">
+        <td>{{ loop.index }}</td>
         <td>{{ item.created.strftime("%d %b %H:%M:%S")  }}</td>
         <td>{{ item.title }}</td>
         <td>{{ item.detail }}</td>

@@ -63,3 +63,8 @@
 16-07-25 13:01:11|RSS Err:code 403 unable to load https://english.pravda.ru/export.xml
 16-07-25 13:01:11|RSS Err:code 302 unable to load http://feeds.bbci.co.uk/news/business/rss.xml
 16-07-25 13:01:20|Err:RSS url invalid:, https://schiffgold.com/news/feed/
+16-07-25 14:01:07|RSS Err:code 302 unable to load http://feeds.bbci.co.uk/news/technology/rss.xml
+16-07-25 14:01:10|Error with rss https://viralnow.uk/feed/
+16-07-25 14:01:16|RSS Err:code 403 unable to load https://english.pravda.ru/export.xml
+16-07-25 14:01:16|RSS Err:code 302 unable to load http://feeds.bbci.co.uk/news/business/rss.xml
+16-07-25 14:01:26|Err:RSS url invalid:, https://schiffgold.com/news/feed/

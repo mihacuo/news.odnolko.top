@@ -35,6 +35,7 @@ def index():
         dated_news = Rss_en.get_news_dated(start=start_date, end=end_date)
         result_news = Rss_en.get_news(dated_news[0], include=[g.search_term])
         g.data_news = result_news[0]
+        g.count = len(g.data_news)
         flashes = dated_news[1]
         flashes += result_news[1]
         for _ in flashes:

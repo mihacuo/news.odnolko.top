@@ -569,3 +569,108 @@
 16-07-25 13:21:08|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
 16-07-25 13:21:13|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
 16-07-25 13:21:13|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
+16-07-25 13:52:48|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
+16-07-25 13:52:48|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
+16-07-25 14:01:01|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
+16-07-25 14:01:01|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
+16-07-25 14:01:02|Loading http://www.ixbt.com/export/hardnews.rss, 1 out of 7
+16-07-25 14:01:03|http://www.ixbt.com/export/hardnews.rss, 1 out of 7 Loaded: 10; Saved: 6; Not: 4
+16-07-25 14:01:03|Loading http://www.ixbt.com/export/softnews.rss, 2 out of 7
+16-07-25 14:01:03|http://www.ixbt.com/export/softnews.rss, 2 out of 7 Loaded: 10; Saved: 0; Not: 10
+16-07-25 14:01:03|Loading https://3dnews.ru/hardware-news/rss, 3 out of 7
+16-07-25 14:01:04|https://3dnews.ru/hardware-news/rss, 3 out of 7 Loaded: 507; Saved: 5; Not: 502
+16-07-25 14:01:04|Loading https://mobidevices.ru/news/feed, 4 out of 7
+16-07-25 14:01:05|https://mobidevices.ru/news/feed, 4 out of 7 Loaded: 10; Saved: 1; Not: 9
+16-07-25 14:01:05|Loading https://itzine.ru/feed, 5 out of 7
+16-07-25 14:01:05|https://itzine.ru/feed, 5 out of 7 Loaded: 14; Saved: 0; Not: 14
+16-07-25 14:01:05|Loading http://lenta.ru/rss/news, 6 out of 7
+16-07-25 14:01:06|http://lenta.ru/rss/news, 6 out of 7 Loaded: 200; Saved: 43; Not: 157
+16-07-25 14:01:06|Loading https://meduza.io/rss2/all, 7 out of 7
+16-07-25 14:01:07|https://meduza.io/rss2/all, 7 out of 7 Loaded: 30; Saved: 5; Not: 25
+16-07-25 14:01:07|RSS Total: 781; Saved: 60(1%). Exec time = 4.57 secs.
+16-07-25 14:01:07|Loading https://www.theregister.com/headlines.atom, 1 out of 39
+16-07-25 14:01:07|https://www.theregister.com/headlines.atom, 1 out of 39 Loaded: 50; Saved: 1; Not: 49
+16-07-25 14:01:07|Loading http://feeds.bbci.co.uk/news/technology/rss.xml, 2 out of 39
+16-07-25 14:01:07|Loading https://www.wired.co.uk/rss/podcast, 3 out of 39
+16-07-25 14:01:07|https://www.wired.co.uk/rss/podcast, 3 out of 39 Loaded: 0; Saved: 0; Not: 0
+16-07-25 14:01:07|Loading https://www.zdnet.com/news/rss.xml, 4 out of 39
+16-07-25 14:01:07|https://www.zdnet.com/news/rss.xml, 4 out of 39 Loaded: 20; Saved: 2; Not: 18
+16-07-25 14:01:07|Loading https://www.tomshardware.com/uk/feeds/all, 5 out of 39
+16-07-25 14:01:08|https://www.tomshardware.com/uk/feeds/all, 5 out of 39 Loaded: 50; Saved: 0; Not: 50
+16-07-25 14:01:08|Loading http://www.infoworld.com/index.rss, 6 out of 39
+16-07-25 14:01:08|http://www.infoworld.com/index.rss, 6 out of 39 Loaded: 0; Saved: 0; Not: 0
+16-07-25 14:01:08|Loading https://www.anandtech.com/rss, 7 out of 39
+16-07-25 14:01:10|https://www.anandtech.com/rss, 7 out of 39 Loaded: 30; Saved: 0; Not: 30
+16-07-25 14:01:10|Loading https://www.globalissues.org/news/feed, 8 out of 39
+16-07-25 14:01:10|https://www.globalissues.org/news/feed, 8 out of 39 Loaded: 10; Saved: 0; Not: 10
+16-07-25 14:01:10|Loading https://viralnow.uk/feed/, 9 out of 39
+16-07-25 14:01:10|Loading https://defence-blog.com/feed/, 10 out of 39
+16-07-25 14:01:10|https://defence-blog.com/feed/, 10 out of 39 Loaded: 10; Saved: 0; Not: 10
+16-07-25 14:01:10|Loading https://www.e-ir.info/feed/, 11 out of 39
+16-07-25 14:01:11|https://www.e-ir.info/feed/, 11 out of 39 Loaded: 30; Saved: 0; Not: 30
+16-07-25 14:01:11|Loading https://russia-insider.com/en/all-content/rss, 12 out of 39
+16-07-25 14:01:16|https://russia-insider.com/en/all-content/rss, 12 out of 39 Loaded: 0; Saved: 0; Not: 0
+16-07-25 14:01:16|Loading https://rss.nytimes.com/services/xml/rss/nyt/World.xml, 13 out of 39
+16-07-25 14:01:16|https://rss.nytimes.com/services/xml/rss/nyt/World.xml, 13 out of 39 Loaded: 58; Saved: 3; Not: 55
+16-07-25 14:01:16|Loading https://english.pravda.ru/export.xml, 14 out of 39
+16-07-25 14:01:16|Loading http://feeds.bbci.co.uk/news/business/rss.xml, 15 out of 39
+16-07-25 14:01:16|Loading https://russia-insider.com/en/all-content/rss, 16 out of 39
+16-07-25 14:01:18|https://russia-insider.com/en/all-content/rss, 16 out of 39 Loaded: 0; Saved: 0; Not: 0
+16-07-25 14:01:18|Loading http://www.dailymail.co.uk/home/index.rss, 17 out of 39
+16-07-25 14:01:19|http://www.dailymail.co.uk/home/index.rss, 17 out of 39 Loaded: 150; Saved: 38; Not: 112
+16-07-25 14:01:19|Loading https://www.telegraph.co.uk/rss.xml, 18 out of 39
+16-07-25 14:01:19|https://www.telegraph.co.uk/rss.xml, 18 out of 39 Loaded: 120; Saved: 0; Not: 120
+16-07-25 14:01:19|Loading http://www.independent.co.uk/rss, 19 out of 39
+16-07-25 14:01:19|http://www.independent.co.uk/rss, 19 out of 39 Loaded: 100; Saved: 38; Not: 62
+16-07-25 14:01:19|Loading https://www.mirror.co.uk/?service=rss, 20 out of 39
+16-07-25 14:01:19|https://www.mirror.co.uk/?service=rss, 20 out of 39 Loaded: 25; Saved: 25; Not: 0
+16-07-25 14:01:19|Loading https://www.thesun.co.uk/feed/, 21 out of 39
+16-07-25 14:01:21|https://www.thesun.co.uk/feed/, 21 out of 39 Loaded: 100; Saved: 35; Not: 65
+16-07-25 14:01:21|Loading http://feeds.feedburner.com/daily-express-news-showbiz, 22 out of 39
+16-07-25 14:01:21|http://feeds.feedburner.com/daily-express-news-showbiz, 22 out of 39 Loaded: 10; Saved: 10; Not: 0
+16-07-25 14:01:21|Loading https://metro.co.uk/feed/, 23 out of 39
+16-07-25 14:01:21|https://metro.co.uk/feed/, 23 out of 39 Loaded: 30; Saved: 8; Not: 22
+16-07-25 14:01:21|Loading https://www.channel4.com/news/feed, 24 out of 39
+16-07-25 14:01:21|https://www.channel4.com/news/feed, 24 out of 39 Loaded: 15; Saved: 1; Not: 14
+16-07-25 14:01:21|Loading http://www.huffingtonpost.co.uk/feeds/index.xml, 25 out of 39
+16-07-25 14:01:22|http://www.huffingtonpost.co.uk/feeds/index.xml, 25 out of 39 Loaded: 50; Saved: 0; Not: 50
+16-07-25 14:01:22|Loading https://www.aljazeera.com/xml/rss/all.xml, 26 out of 39
+16-07-25 14:01:22|https://www.aljazeera.com/xml/rss/all.xml, 26 out of 39 Loaded: 25; Saved: 3; Not: 22
+16-07-25 14:01:22|Loading https://www.independent.ie/rss/, 27 out of 39
+16-07-25 14:01:22|https://www.independent.ie/rss/, 27 out of 39 Loaded: 25; Saved: 5; Not: 20
+16-07-25 14:01:22|Loading http://www.standard.co.uk/rss, 28 out of 39
+16-07-25 14:01:23|http://www.standard.co.uk/rss, 28 out of 39 Loaded: 100; Saved: 21; Not: 79
+16-07-25 14:01:23|Loading https://www.irishtimes.com/cmlink/news-1.1319192, 29 out of 39
+16-07-25 14:01:23|https://www.irishtimes.com/cmlink/news-1.1319192, 29 out of 39 Loaded: 20; Saved: 3; Not: 17
+16-07-25 14:01:23|Loading https://feeds.skynews.com/feeds/rss/uk.xml, 30 out of 39
+16-07-25 14:01:23|https://feeds.skynews.com/feeds/rss/uk.xml, 30 out of 39 Loaded: 10; Saved: 3; Not: 7
+16-07-25 14:01:23|Loading https://goldsilver.com/blog/rss/, 31 out of 39
+16-07-25 14:01:26|https://goldsilver.com/blog/rss/, 31 out of 39 Loaded: 0; Saved: 0; Not: 0
+16-07-25 14:01:26|Loading https://schiffgold.com/news/feed/, 32 out of 39
+16-07-25 14:01:26|Loading https://www.bullionstar.com/rss/, 33 out of 39
+16-07-25 14:01:26|https://www.bullionstar.com/rss/, 33 out of 39 Loaded: 37; Saved: 0; Not: 37
+16-07-25 14:01:26|Loading https://www.commodity-tv.com/ondemand/channel/blytheweigh-business-news/rss.xml, 34 out of 39
+16-07-25 14:01:27|https://www.commodity-tv.com/ondemand/channel/blytheweigh-business-news/rss.xml, 34 out of 39 Loaded: 18; Saved: 0; Not: 18
+16-07-25 14:01:27|Loading https://www.commodity-tv.com/ondemand/channel/gold/rss.xml, 35 out of 39
+16-07-25 14:01:29|https://www.commodity-tv.com/ondemand/channel/gold/rss.xml, 35 out of 39 Loaded: 50; Saved: 0; Not: 50
+16-07-25 14:01:29|Loading https://www.commodity-tv.com/ondemand/channel/silver/rss.xml, 36 out of 39
+16-07-25 14:01:31|https://www.commodity-tv.com/ondemand/channel/silver/rss.xml, 36 out of 39 Loaded: 50; Saved: 0; Not: 50
+16-07-25 14:01:31|Loading https://www.commodity-tv.com/ondemand/channel/palladium/rss.xml, 37 out of 39
+16-07-25 14:01:33|https://www.commodity-tv.com/ondemand/channel/palladium/rss.xml, 37 out of 39 Loaded: 50; Saved: 0; Not: 50
+16-07-25 14:01:33|Loading https://www.commodity-tv.com/ondemand/channel/platinum/rss.xml, 38 out of 39
+16-07-25 14:01:35|https://www.commodity-tv.com/ondemand/channel/platinum/rss.xml, 38 out of 39 Loaded: 50; Saved: 0; Not: 50
+16-07-25 14:01:35|Loading https://www.commodity-tv.com/ondemand/channel/exploration/rss.xml, 39 out of 39
+16-07-25 14:01:36|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
+16-07-25 14:01:36|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
+16-07-25 14:01:37|https://www.commodity-tv.com/ondemand/channel/exploration/rss.xml, 39 out of 39 Loaded: 50; Saved: 0; Not: 50
+16-07-25 14:01:37|RSS Total: 1343; Saved: 196(1%). Exec time = 30.56 secs.
+16-07-25 14:02:56|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
+16-07-25 14:02:56|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
+16-07-25 14:04:27|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
+16-07-25 14:04:27|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
+16-07-25 14:04:37|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
+16-07-25 14:04:37|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
+16-07-25 14:06:24|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
+16-07-25 14:06:24|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt
+16-07-25 14:08:02|Loaded 39 urls from /root/www/news.odnolko.top/static/rss_batches_en.txt
+16-07-25 14:08:02|Loaded 7 urls from /root/www/news.odnolko.top/static/rss_batches_ru.txt

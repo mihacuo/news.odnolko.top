@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
 :root {
   --col1: #83e263;
   --col2: #69d6ea;
@@ -47,7 +53,7 @@
 }
 
 #flashes {
-  background-color: var(--col2);
+  background-color: var(--col4);
   position: fixed;
   bottom: 1px;
   right: 1px;
