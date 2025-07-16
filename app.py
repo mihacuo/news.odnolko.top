@@ -1,20 +1,30 @@
-from flask import Flask, g, render_template, flash
+from flask import Flask, g, render_template, flash, request
 from config import Config
 from forms import SearchForm
 from datetime import datetime, timedelta
 from rss_news_v2 import Rss_en
+from models import Visit
 
 app = Flask(__name__)
 app.config.from_object(Config)
 
+@app.before_request
+def log_ip():
+    if request.environ.get('HTTP_X_FORWARDED_FOR') is None:
+        g.ip = request.environ['REMOTE_ADDR']
+    else:
+        g.ip = request.environ['HTTP_X_FORWARDED_FOR']
+
 @app.route("/", methods = ["GET", "POST"])
 def index():
     flash("starting app111")
-    flash(f"{app.config["T1"]=}")
+    flash(f"{g.ip=}")
+    Visit.create(ip=g.ip)
     g.form = SearchForm()
     if g.form.validate_on_submit():
         g.search_term = g.form.query.data
         g.duration = int(g.form.duration.data)
+        Visit.create(ip=g.ip, type=f"TERM={g.search_term}, days={g.duration}")
         end_date = datetime.now()
         start_date = end_date - timedelta(days=g.duration)
 

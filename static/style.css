@@ -62,3 +62,6 @@
 .none {
   display: none;
 }
+td {
+  white-space: normal;
+}
