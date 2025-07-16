@@ -1,0 +1,64 @@
+:root {
+  --col1: #83e263;
+  --col2: #69d6ea;
+  --col3: #edbf34;
+  --col4: #dedede;
+  --col5: #d1a3f9;
+  --col6: #fbffae;
+  --col7: #4e6075;
+  --col8: #2986cc;
+  --col9: #f0509a;
+  --col10: #ff7ac5;
+}
+
+.c1 {
+  background-color: var(--col1);
+}
+.c2 {
+  background-color: var(--col2);
+}
+.c3 {
+  background-color: var(--col3);
+}
+.c4 {
+  background-color: var(--col4);
+}
+.c5 {
+  background-color: var(--col5);
+}
+.c6 {
+  background-color: var(--col6);
+}
+.c7 {
+  background-color: var(--col7);
+  color: white;
+}
+.c8 {
+  background-color: var(--col8);
+  color: white;
+}
+.c9 {
+  background-color: var(--col9);
+  color: white;
+}
+.c10 {
+  background-color: var(--col10);
+  color: white;
+}
+
+#flashes {
+  background-color: var(--col2);
+  position: fixed;
+  bottom: 1px;
+  right: 1px;
+}
+
+#flashes li {
+  border-bottom: 1px dotted var(--col7);
+  list-style-type: none;
+  padding: 0.1rem;
+  font-size: 0.8rem;
+}
+.none {
+  display: none;
+}

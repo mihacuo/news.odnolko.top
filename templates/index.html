@@ -1,0 +1,16 @@
+{% extends "layout.html" %} {% block title %} Default index file {% endblock %}
+{% block content%}
+{% if g.search_term %}
+<p>You searched for {{ g.form.query.data }} .</p>
+{% else %}
+<p>Enter Search term:</p>
+
+{% endif %}
+<form method="post" action="" class="search">
+  {{ g.form.hidden_tag() }}
+  {{ g.form.query.label }} {{ g.form.query(size=30) }}
+  {{ g.form.submit() }}
+
+</form>
+
+{% endblock %}
