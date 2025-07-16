@@ -1,0 +1,14 @@
+# comment lines in this file start with hashtag. They will be skipped
+# Another comment here. Where we have name of table include * in begining
+# russian it news ***rus_it_news
+http://www.ixbt.com/export/hardnews.rss
+http://www.ixbt.com/export/softnews.rss
+https://3dnews.ru/hardware-news/rss
+https://mobidevices.ru/news/feed
+https://itzine.ru/feed
+# All News in russian language ***rus_news
+http://lenta.ru/rss/news
+# https://www.gazeta.ru/export/rss/lenta.xml
+# https://russian.rt.com/rss
+https://meduza.io/rss2/all
+# https://www.pravda.ru/export.xml

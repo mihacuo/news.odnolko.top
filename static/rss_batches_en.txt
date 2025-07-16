@@ -1,0 +1,44 @@
+# comment lines in this file start with hashtag. They will be skipped
+# Another comment here.
+https://www.theregister.com/headlines.atom
+http://feeds.bbci.co.uk/news/technology/rss.xml
+https://www.wired.co.uk/rss/podcast
+https://www.zdnet.com/news/rss.xml
+https://www.tomshardware.com/uk/feeds/all
+http://www.infoworld.com/index.rss
+# https://www.techradar.com/uk/rss
+https://www.anandtech.com/rss
+# All news in english ***eng_news
+https://www.globalissues.org/news/feed
+https://viralnow.uk/feed/
+https://defence-blog.com/feed/
+https://www.e-ir.info/feed/
+https://russia-insider.com/en/all-content/rss
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+https://english.pravda.ru/export.xml
+http://feeds.bbci.co.uk/news/business/rss.xml
+# https://www.rt.com/rss/
+https://russia-insider.com/en/all-content/rss
+http://www.dailymail.co.uk/home/index.rss
+https://www.telegraph.co.uk/rss.xml
+http://www.independent.co.uk/rss
+https://www.mirror.co.uk/?service=rss
+https://www.thesun.co.uk/feed/
+http://feeds.feedburner.com/daily-express-news-showbiz
+https://metro.co.uk/feed/
+https://www.channel4.com/news/feed
+http://www.huffingtonpost.co.uk/feeds/index.xml
+https://www.aljazeera.com/xml/rss/all.xml
+https://www.independent.ie/rss/
+http://www.standard.co.uk/rss
+https://www.irishtimes.com/cmlink/news-1.1319192
+https://feeds.skynews.com/feeds/rss/uk.xml
+https://goldsilver.com/blog/rss/
+https://schiffgold.com/news/feed/
+https://www.bullionstar.com/rss/
+https://www.commodity-tv.com/ondemand/channel/blytheweigh-business-news/rss.xml
+https://www.commodity-tv.com/ondemand/channel/gold/rss.xml
+https://www.commodity-tv.com/ondemand/channel/silver/rss.xml
+https://www.commodity-tv.com/ondemand/channel/palladium/rss.xml
+https://www.commodity-tv.com/ondemand/channel/platinum/rss.xml
+https://www.commodity-tv.com/ondemand/channel/exploration/rss.xml
