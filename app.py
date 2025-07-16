@@ -9,8 +9,8 @@ app.config.from_object(Config)
 
 @app.route("/", methods = ["GET", "POST"])
 def index():
-    flash("starting app")
-    flash(f"{app.config["OS_NAME"]=}")
+    flash("starting app111")
+    flash(f"{app.config["T1"]=}")
     g.form = SearchForm()
     if g.form.validate_on_submit():
         g.search_term = g.form.query.data
