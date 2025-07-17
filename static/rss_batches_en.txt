@@ -10,13 +10,11 @@ http://www.infoworld.com/index.rss
 https://www.anandtech.com/rss
 # All news in english ***eng_news
 https://www.globalissues.org/news/feed
-https://viralnow.uk/feed/
 https://defence-blog.com/feed/
 https://www.e-ir.info/feed/
 https://russia-insider.com/en/all-content/rss
 https://rss.nytimes.com/services/xml/rss/nyt/World.xml
 https://english.pravda.ru/export.xml
-http://feeds.bbci.co.uk/news/business/rss.xml
 # https://www.rt.com/rss/
 https://russia-insider.com/en/all-content/rss
 http://www.dailymail.co.uk/home/index.rss
@@ -34,7 +32,6 @@ http://www.standard.co.uk/rss
 https://www.irishtimes.com/cmlink/news-1.1319192
 https://feeds.skynews.com/feeds/rss/uk.xml
 https://goldsilver.com/blog/rss/
-https://schiffgold.com/news/feed/
 https://www.bullionstar.com/rss/
 https://www.commodity-tv.com/ondemand/channel/blytheweigh-business-news/rss.xml
 https://www.commodity-tv.com/ondemand/channel/gold/rss.xml
